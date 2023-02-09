@@ -4,13 +4,13 @@ You can find the vast majority of my coding projects on my [GitHub](https://gith
 
 ## RiLab
 
-![Using RiLab to prove that elements are in a list](../../images/code/rilab.png)
+![Using RiLab to prove that elements are in a list](../images/code/rilab.png)
 
 RiLab is a CPU multithreaded theorem proving software. [Download the latest release here](https://github.com/rayyaw/RiLab/releases), or view the [source code](https://github.com/rayyaw/RiLab).
 
 ## Wordle Discord Bot
 
-![WordleBot running on Discord](../../images/code/wordle-bot.png)
+![WordleBot running on Discord](../images/code/wordle-bot.png)
 
 This Discord bot uses short-term memory in order to play Wordle, but is otherwise stateless. If you're interested in self-hosting this application, you can view the [source code and instructions](https://github.com/rayyaw/wordle-bot).
 
@@ -22,7 +22,7 @@ I have built a [working computer](https://github.com/rayyaw/minecraft-mips-cpu) 
 
 ## Flash Patching Utility
 
-![Flash Patcher command line output](../../images/code/flash-patcher.png)
+![Flash Patcher command line output](../images/code/flash-patcher.png)
 
 This utility uses the simple Patchfile language to allow you to inject arbitrary ActionScript code into .swf files. [Source code, instructions, and download.](https://github.com/rayyaw/flash-patcher)
 
