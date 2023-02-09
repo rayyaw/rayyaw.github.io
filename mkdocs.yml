@@ -1,0 +1,14 @@
+site_name: RileyTech
+site_url: https://rayyaw.github.io
+nav:
+    - Home: index.md
+    - Coding: 
+        - Projects: coding/projects.md
+        - Setup: coding/setup.md
+    - Speedruns: 
+        - Accomplishments: speedrun/accomplishments.md
+        - Resources: speedrun/speedrun-resources.md
+        - History: speedrun/history.md
+    - Links: links.md
+
+theme:
