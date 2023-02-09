@@ -30,7 +30,7 @@ This utility uses the simple Patchfile language to allow you to inject arbitrary
 
 ## Miscellaneous Utilities
 
-[This GitHub page](https://github.com/rayyaw/utils) contains various utilities, and may be updated if I make new ones. As of the making of this website, you can find the following utilities:
+[This GitHub page](https://github.com/rayyaw/utils) contains various utilities, and may be updated if I make new ones. As of the making of this website, you can find the following:
 
 - Randomized music selection from local .mp3 files
 - Recursive line counting utility, which is handy when your code is split across multiple files
