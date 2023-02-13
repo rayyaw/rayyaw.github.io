@@ -4,4 +4,7 @@ This page is designed to aggregate all (current) speedrun resources created by m
 
 ## Super Mario Flash
 
-# This page is a work in progress, check back later for more updates.
+Download the latest <a href="/files/SMF-Hacks-Build-4.zip">Super Mario Flash speedrun hacks</a>.
+
+## This page remains a work in progress, check back later for more updates.
+## Upcoming sctions: The Heist, more SMF hacks
