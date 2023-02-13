@@ -10,7 +10,11 @@ Since Flash Player no longer works on browser, you need to [download the project
 
 ### Speedrun Hacks
 
-Download the latest <a href="/files/smf/SMF-Hacks-Build-4.zip">Super Mario Flash speedrun hacks</a>. **Disclaimer:** These hacks are not yet speedrun legal, use them at your own risk.
+Download the latest <a href="/files/smf/SMF-Hacks-Build-4.zip">Super Mario Flash speedrun hacks</a>. Check the patch notes (included in the download) for the latest features. **Disclaimer:** These hacks are not yet speedrun legal, use them at your own risk.
+
+Super Mario Flash speedrun hack guide (note that this is outdated and uses an old version of the hack):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k_vMtjUYfps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <a href="/files/smf/SMF_v2.0.swf">Super Mario Flash v2.0 unmodified</a>. Speedrun legal.
 
@@ -30,7 +34,16 @@ Download the latest <a href="/files/smf/SMF-Hacks-Build-4.zip">Super Mario Flash
 
 <a href="/files/smf/SMF_IL_Tool.swf">Super Mario Flash IL tool for v3.0</a>. Speedrun legal *for ILs only*. Developed by ThePianoEnthusiast.
 
+SMF IL Tool usage guide:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IWJkVBu3w7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <a href="/files/smf/SMF_Practice_Tool.swf">Super Mario Flash practice tool for v3.0</a>. **Not speedrun legal.** Developed by RileyTech, with some contributions by ThePianoEnthusiast.
+
+SMF Practice Tool usage guide:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HTpUGrPWyp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Super Mario Flash 2
 
