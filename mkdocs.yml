@@ -10,5 +10,7 @@ nav:
         - Resources: speedrun/resources.md
         - History: speedrun/history.md
     - Links: links.md
+    
+    - Minecraft Competition: minecraftBuildChallenge.md
 
 theme:
