@@ -10,7 +10,7 @@ Since Flash Player no longer works on browser, you need to [download the project
 
 ### Speedrun Hacks
 
-Download the latest <a href="/files/smf/SMF-Hacks-Build-4.zip">Super Mario Flash speedrun hacks</a>. Check the patch notes (included in the download) for the latest features. **Disclaimer:** These hacks are not yet speedrun legal, use them at your own risk.
+Download the latest <a href="/files/smf/SMF-Hacks-Build-5.zip">Super Mario Flash speedrun hacks</a>. Check the patch notes (included in the download) for the latest features. **Disclaimer:** These hacks are not yet speedrun legal, use them at your own risk.
 
 Super Mario Flash speedrun hack guide (note that this is outdated and uses an old version of the hack):
 
