@@ -10,7 +10,7 @@ Since Flash Player no longer works on browser, you need to [download the project
 
 ### Speedrun Hacks
 
-Download the latest <a href="/files/smf/SMF-Hacks-Build-6.zip">Super Mario Flash speedrun hacks</a>. Check the patch notes (included in the download) for the latest features. **Disclaimer:** These hacks are not yet speedrun legal, use them at your own risk.
+Download the latest <a href="/files/smf/SMF-Hacks-Build-6.zip">Super Mario Flash speedrun hacks</a>. Check the patch notes (included in the download) for the latest features. The fullgame hack in this bundle is allowed for both fullgame and IL runs, and the IL hack is allowed *for IL runs only*. The cheat hack is *not* speedrun legal.
 
 Super Mario Flash speedrun hack guide (note that this is outdated and uses an old version of the hack):
 
