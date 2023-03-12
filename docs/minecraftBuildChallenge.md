@@ -30,7 +30,7 @@ You should download the [Minecraft structure file](files/minecraftBuildChallenge
 
 Your final submission should be a .mcstructure file that works on Minecraft Bedrock, with the same X and Z dimensions as the original. You may use unlimited height in your build. If you have hidden/secret areas in your build, you should also submit a quick .txt file explaining how to access the secret areas.
 
-The submission deadline is **March 31st, 2022**. You should submit by DM'ing me the structure file on Discord.
+The submission deadline is **March 31st, 2023**. You should submit by DM'ing me the structure file on Discord.
 
 ## Evaluation Method
 
