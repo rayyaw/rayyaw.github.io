@@ -1,0 +1,11 @@
+site_name: rayyaw
+site_url: https://rayyaw.github.io
+nav:
+    - Home: index.md
+    - Coding: 
+        - Projects: coding/projects.md
+        - Setup: coding/setup.md
+theme: 
+    name: dracula
+    custom_dir: theme_extension/
+extra_css: [assets/css/custom.css]
