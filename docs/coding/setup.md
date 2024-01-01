@@ -1,6 +1,6 @@
 # Coding setup
 
-I currently have two computers I use for coding. One is setup with Windows and has a latest-generaion GPU (as of 2023), and the other has Linux (Debian + KDE). My Linux computer has no GPU and is much more portable, so I use it for everything except high performance computing and Windows-specific applications.
+I currently have two computers I use for coding. One is setup with Windows and has a latest-generation GPU (as of 2023), and the other has Linux (Debian + KDE). My Linux computer has no GPU and is much more portable, so I use it for everything except high performance computing and Windows-specific applications.
 
 ## Platform
 

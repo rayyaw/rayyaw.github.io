@@ -18,7 +18,7 @@
 
 ## Contact
 
-For business inquiries, please reach out to [rayyawspeedruns@gmail.com](mailto:rayyawspeedruns@gmail.com). Note that response times may be slow (I can't guarantee any response time, but I'll try to respond within two weeks at most).
+For business inquiries, please reach out to [rayyawspeedruns@gmail.com](mailto:rayyawspeedruns@gmail.com).
 
 If you encounter a bug with one of my projects, please open an issue on the appropriate GitHub project. You can find my GitHub page [here](https://github.com/rayyaw).
 
