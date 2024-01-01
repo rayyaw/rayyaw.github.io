@@ -5,7 +5,3 @@ nav:
     - Coding: 
         - Projects: coding/projects.md
         - Setup: coding/setup.md
-theme: 
-    name: dracula
-    custom_dir: theme_extension/
-extra_css: [assets/css/custom.css]
