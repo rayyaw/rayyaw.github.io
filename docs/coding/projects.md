@@ -8,8 +8,6 @@ You can find the vast majority of my coding projects on my [GitHub](https://gith
 
 This utility uses the simple Patchfile language to allow you to inject arbitrary ActionScript code into .swf files. [Source code, instructions, and download.](https://github.com/rayyaw/flash-patcher)
 
-**Disclaimer:** I am not responsible for malicious or illegal use of Flash Patcher. This utility is designed **solely for non-harmful extensions** of SWF files, such as adding savestates or in-game time for Flash games. Please make sure you have the required rights to the content before making any modifications.
-
 ## Robust CNN training
 
 I have done a significant amount of work on training machine learning models that are robust to noise, especially in the domain of computer vision. View the [Jupyter Notebook](https://github.com/rayyaw/robust-cnn/blob/main/adversarial_training_project.ipynb), which contains both the code and results of some of my analyses.
