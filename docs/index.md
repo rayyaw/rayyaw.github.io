@@ -4,7 +4,7 @@
 
 ## About Me
 
-- Computer Science graduate (if you're hiring, please [get in touch](mailto:rayyawspeedruns@gmail.com)!)
+- Computer Science graduate
 - Open source contributor
 - Timezone: [US Central](https://time.is/CT)
 
