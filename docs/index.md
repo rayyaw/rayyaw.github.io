@@ -13,7 +13,7 @@
 - Anything coding related!
 - GPU and high performance computing (OpenCL, CUDA)
 - Deep Learning (PyTorch/Python, C++, computer vision, neural network verification)
-- API and Web Development (frontend + backend, Linux, TypeScript + React, Java/Kotlin)
+- API, Web, and Mobile Development (frontend + backend, Linux, TypeScript + React, Java/Kotlin, Android, iOS)
 - Full CI/CD enthusiast (ask me about full CI/CD initiatives in my projects)
 
 ## Contact
