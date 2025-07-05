@@ -1,7 +1,5 @@
 # rayyaw's website
 
-<img src="files/userpic.png" width="25%" align="right" alt="rayyaw profile picture">
-
 ## About Me
 
 - Computer Science graduate
